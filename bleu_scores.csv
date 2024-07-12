@@ -1,0 +1,1063 @@
+prompt,ground_truth,generated_hint,bleu_1,bleu_2,bleu_3,bleu_4
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.walmart.com/store/weekly-ads?flyer_run_id=183730&flyer_type_name=circular?veh=bv_dis&ADID=IID282030SGen'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.walmart.com/store/5403/weekly-ads?ADID=IID282030SGen&flyer_run_id=183730&flyer_type_name=circular?veh%3Dbv_dis'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.walmart.com/browse/jewelry-valentines-day-gifts/0/0/?_refineresult=true&_be_shelf_id=6829&search_sort=100&facet=shelf_id%3A6829&cat_id=0'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.walmart.com/search/?query=cereal&cat_id=976759&typeahead=cere'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a school app. On its AddSchoolActivity page, it has an input component. The text on this component is 'john'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'search close btn'. 
+The purpose of this input component may be 'search src text'. What is the hint text of this input component?",Enter your school name,Enter your school name,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://m.youtube.com/watch?v=84TouqfIsiI'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://m.facebook.com/confirmemail.php?next=https%3A%2F%2Fm.facebook.com%2Fpages%2FUsee%2F215878541912205&_rdr'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'newtab'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'bookmarks'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a tfa app. On its SearchLocationActivity page, it has an input component. The text on this component is '94101'. The purpose of this input component may be 'search input'. What is the hint text of this input component?",Enter zipcode/city&state,Enter Location,0.78794411726764,0.78794411726764,0.618558927857080,0.518558927632837
+"Q: This is a tfa app. On its SearchLocationActivity page, it has an input component. The purpose of this input component may be 'search input'. What is the hint text of this input component?",Enter zipcode/city&state,Enter Location,0.78794411726764,0.78794411726764,0.618558927857080,0.518558927632837
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://doapp.freshdesk.com/support/home'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'newtab'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'bookmarks'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a musically app. On its SignUpActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'tx mail address'. The hint text of this component is 'email address'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'tx nickname'. The hint text of this component is 'create username'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'btn create account'. The text on this component is 'create account'. 
+The purpose of this input component may be 'tx password'. What is the hint text of this input component?",set password,create password,0.7879441171442,0.7879441171442,0.518558927632837,0.518558927632837
+"Q: This is a musically app. On its SignUpActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'tx nickname'. The hint text of this component is 'create username'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'tx password'. The hint text of this component is 'set password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'btn create account'. The text on this component is 'create account'. 
+The purpose of this input component may be 'tx mail address'. What is the hint text of this input component?",email address,email,0.7879441171442,0.7879441171442,0.518558927632837,0.518558927632837
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.hipmunk.com/privacy?embed=true'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a android app. On its HotelsActivity page, it has an input component. The purpose of this input component may be 'name filter box'. What is the hint text of this input component?",Enter property name,"Enter the name of the city, location or",0.7879441171442,0.7879441171442,0.518558927632837,0.518558927632837
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.appicenter.net/lang.en.html'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a conjugator_demo_en app. On its ActivitySearch page, it has an input component. The purpose of this input component may be 'search src text'. What is the hint text of this input component?",Search Verbs/Forms,Search Verbs/Forms,1.0,1.0,0.518558927632837,0.518558927632837
+"Q: This is a conjugator_demo_en app. On its ActivityBrowse page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'search close btn'. 
+The purpose of this input component may be 'search src text'. What is the hint text of this input component?",Search Verbs/Forms,Search conjugation,0.7879441171442,0.7879441171442,0.518558927632837,0.518558927632837
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://m.aliexpress.com/?aff_platform=aaf&cpt=1495205337376&sk=eub6yrrBy&aff_trace_key=bd5447710a4c44a1b1272f1e1c8c9d5f-1495205337376-00436-eub6yrrBy'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://m.facebook.com/www.usee.in/'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'newtab'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'bookmarks'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'clear'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a android app. On its WelcomeActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'navigationBarBackground'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'statusBarBackground'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'activity progress'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'editText name'. The hint text of this component is 'Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button register'. The text on this component is 'Register'. 
+The purpose of this input component may be 'editText password'. What is the hint text of this input component?",Password,Password,1.0,0.4043537731417560,0.4043537731417560,0.4043537731417560
+"Q: This is a app app. On its SignUpFormActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'logo'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity btn'. The text on this component is 'GET STARTED'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity username'. The hint text of this component is 'Choose your username'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity password'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity birthday'. The hint text of this component is 'Birthdate'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity email'. The hint text of this component is 'Email address'. 
+The purpose of this input component may be 'sign up activity captcha text'. What is the hint text of this input component?",Enter Security Code,Enter code,0.7879441171442,0.7879441171442,0.518558927632837,0.518558927632837
+"Q: This is a app app. On its SignUpFormActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'logo'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity btn'. The text on this component is 'GET STARTED'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity username'. The hint text of this component is 'Choose your username'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity password'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity birthday'. The hint text of this component is 'Birthdate'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity captcha text'. The hint text of this component is 'Enter Security Code'. 
+The purpose of this input component may be 'sign up activity email'. What is the hint text of this input component?",Email address,Email,0.7879441171442,0.7879441171442,0.518558927632837,0.518558927632837
+"Q: This is a app app. On its SignUpFormActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'logo'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity btn'. The text on this component is 'GET STARTED'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity username'. The hint text of this component is 'Choose your username'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity birthday'. The hint text of this component is 'Birthdate'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity email'. The hint text of this component is 'Email address'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'sign up activity captcha text'. The hint text of this component is 'Enter Security Code'. 
+The purpose of this input component may be 'sign up activity password'. What is the hint text of this input component?",Password,Password,1.0,0.4043537731417560,0.4043537731417560,0.4043537731417560
+"Q: This is a id_2862 app. On its WarmWelcomeActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'top divider'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'mid divider'. 
+There is a component on the same vertical line as this input component. 
+The purpose of this input component may be 'search view'. What is the hint text of this input component?",Enter City or Zip Code,Enter City or Zip Code,1.0,1.0,1.0,1.0
+"Q: This is a myaccount app. On its LoginPopupActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login fb button'. The text on this component is 'Log in with Facebook'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'et new login username'. The text on this component is 'appcrawler5@gmail.com'. The hint text of this component is 'Email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login username btn'. The text on this component is 'LOGIN'. 
+The purpose of this input component may be 'et new login password'. What is the hint text of this input component?",Password,Password,1.0,0.92507385850726,0.92507385850726,0.518558927632837
+"Q: This is a myaccount app. On its LoginPopupActivity page, it has an input component. The text on this component is 'appcrawler5@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login fb button'. The text on this component is 'Log in with Facebook'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'et new login password'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login username btn'. The text on this component is 'LOGIN'. 
+The purpose of this input component may be 'et new login username'. What is the hint text of this input component?",Email,Email,1.0,0.92507385850726,0.92507385850726,0.518558927632837
+"Q: This is a app app. On its SignupActivity page, it has an input component. The text on this component is 'Crowd3116'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Let's get started!'. 
+There is a component on the same vertical line as this input component. The text on this component is 'Just enter your info to get started.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'signup email edittext'. The text on this component is 'appcrawler6@gmail.com'. The hint text of this component is 'Email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'signup button'. The text on this component is 'Get started!'. 
+The purpose of this input component may be 'signup password edittext'. What is the hint text of this input component?",Choose Password,Password,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a app app. On its SignupActivity page, it has an input component. The text on this component is 'appcrawler6@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Let's get started!'. 
+There is a component on the same vertical line as this input component. The text on this component is 'Just enter your info to get started.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'signup password edittext'. The text on this component is 'Crowd3116'. The hint text of this component is 'Choose Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'signup button'. The text on this component is 'Get started!'. 
+The purpose of this input component may be 'signup email edittext'. What is the hint text of this input component?",Email,Enter Email,0.5,0.4043537731417560,0.4043537731417560,0.4043537731417560
+"Q: This is a app app. On its SendParentReferralActivity page, it has an input component. The text on this component is 'iddle@gmail..com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Tell us a bit more so that we can invite your school or daycare.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name input'. The text on this component is 'Nuddke iddle'. The hint text of this component is 'School Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'phone input'. The hint text of this component is 'School Phone'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'anonymous input'. The text on this component is 'Send anonymously'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'invite button'. The text on this component is 'Invite!'. 
+The purpose of this input component may be 'email input'. What is the hint text of this input component?",School Email,School Email,1.0,1.0,0.518558927632837,0.518558927632837
+"Q: This is a webwrapper app. On its SetupCoreActivity page, it has an input component. The purpose of this input component may be 'search autocomplete'. What is the hint text of this input component?",Search stocks,Search,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a webwrapper app. On its SetupCoreActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Enter your email address to get started.'. 
+There is a component on the same vertical line as this input component. The text on this component is 'Seeking Alpha Users:'. 
+There is a component on the same vertical line as this input component. The text on this component is 'Please enter the email address linked to your Seeking Alpha account.'. 
+The purpose of this input component may be 'setup email field'. What is the hint text of this input component?",Email,Email address,0.5,0.4043537731417560,0.4043537731417560,0.22507385850726
+"Q: This is a webwrapper app. On its SetupCoreActivity page, it has an input component. The text on this component is 'Crowd3116'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Enter your Seeking Alpha password'. 
+There is a component on the same vertical line as this input component. The text on this component is 'Forgot your password?'. 
+The purpose of this input component may be 'password field'. What is the hint text of this input component?",Password,Password,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://m.youtube.com/watch?v=lcH0-RsMH5Q'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a demo app. On its MainActivity page, it has an input component. The text on this component is 'http://www.avd-app.com/gettingstarted/'. The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'Search or Url'. The purpose of this input component may be 'search box'. What is the hint text of this input component?",Search or type URL,Search or Type URL,1.0,1.0,1.0,1.0
+"Q: This is a mypilot app. On its OnBoardingContainerActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'imageView1'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'textView1'. The text on this component is 'Get connected with myRewards and earn what you deserve faster'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'textView1'. The text on this component is 'Do you have a Loyalty Card already?'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'new account text field'. The text on this component is 'I need a myRewards account'. The hint text of this component is 'I need a myRewards account'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'trouble with account btn'. The text on this component is 'Trouble with account?'. 
+The purpose of this input component may be 'existing account text field'. What is the hint text of this input component?",Password,Password,1.0,1.0,1.0,1.0
+"Q: This is a phonelocationphone app. On its PhoneVerify page, it has an input component. The text on this component is '+14155791638'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'textView3'. The text on this component is 'Enter your phone number'. 
+The purpose of this input component may be 'EDTNumber'. What is the hint text of this input component?",Enter your phone number,Enter your phone number,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.bikecomputer.co/privacy_policy.html'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a app app. On its Navigator_MainActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'tv verifyuser sign in'. The text on this component is 'Login'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'et phone number'. The hint text of this component is '10 digit mobile number'. 
+The purpose of this input component may be 'et password'. What is the hint text of this input component?",Enter password,Enter password,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://secure.citrixonline.com/secure/gotowebinar/commerce/try/contact-sales?planKeys=56'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a gotowebinar app. On its HomeScreenActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. 
+The purpose of this input component may be 'webinar id edit text'. What is the hint text of this input component?",Enter a Webinar ID,Enter Webinar ID,0.7165313105737890,0.4043537731417560,0.4043537731417560,0.4043537731417560
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://service.thecloud.net/service-platform/terms-and-conditions/'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.sportsengine.com/legal/privacy_policy/'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a firefox_beta app. On its BrowserApp page, it has an input component. The text on this component is 'https://support.mozilla.org/en-US/products/mobile?utm_source=inproduct&utm_medium=default-bookmarks&utm_campaign=mobileandroid'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'nav back'. 
+Thers is a component on the same horizontal line as this input component. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'add tab'. 
+Thers is a component on the same horizontal line as this input component. 
+Thers is a component on the same horizontal line as this input component. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tabs'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'edit cancel'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'qrcode'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'mic'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'url bar title'. The text on this component is 'https://support.mozilla.org/en-US/products/mobile?utm_source=inproduct&utm_medium=default-bookmarks&utm_campaign=mobileandroid'. The hint text of this component is 'Search or enter address'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'stop'. 
+The purpose of this input component may be 'url edit text'. What is the hint text of this input component?",Search or enter address,Search or enter address,1.0,1.0,1.0,1.0
+"Q: This is a broadcastify app. On its TiActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'titanium ui edittext'. The hint text of this component is 'Username'. 
+The purpose of this input component may be 'titanium ui edittext'. What is the hint text of this input component?",Password,Password,1.0,0.92507385850726,0.92507385850726,0.518558927632837
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://broadcastify.zendesk.com/hc/en-us'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.sportsengine.com/team/'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a driveaxle app. On its LoginActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'passwordField'. The hint text of this component is 'Password'. 
+The purpose of this input component may be 'emailField'. What is the hint text of this input component?",Email Address,Email,0.7165313105737890,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a driveaxle app. On its PasswordResetActivity page, it has an input component. The text on this component is 'appcrawler4@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'passwordField'. The hint text of this component is 'Password'. 
+The purpose of this input component may be 'emailField'. What is the hint text of this input component?",Email Address,Email,0.7165313105737890,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a waze app. On its MainActivity page, it has an input component. The purpose of this input component may be 'searchBox'. What is the hint text of this input component?",Search address,Enter City or Zip Code,0,0,0,0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://m.facebook.com/home.php?_rdr'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'clear'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://liksquared.com/collections/best-sellers'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a free app. On its SignupActivity page, it has an input component. The text on this component is 'Crowd3116'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input edittext'. The text on this component is 'appcrawler6@gmail.com'. The hint text of this component is 'Email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input edittext'. The text on this component is '94102'. The hint text of this component is 'Postal Code'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input edittext'. 
+The purpose of this input component may be 'input edittext'. What is the hint text of this input component?",Password,Password,1.0,0.4043537731417560,0.4043537731417560,0.4043537731417560
+"Q: This is a free app. On its SignupActivity page, it has an input component. The text on this component is 'appcrawler6@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input edittext'. The text on this component is 'Crowd3116'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input edittext'. The text on this component is '94102'. The hint text of this component is 'Postal Code'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input edittext'. 
+The purpose of this input component may be 'input edittext'. What is the hint text of this input component?",Email,Email Address,0.92507385850726,0.92507385850726,0.92507385850726,0.92507385850726
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.google.com/intl/en/policies/privacy/partners/'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'newtab'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'bookmarks'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://waplog.com/home/faq'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'clear'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a healow app. On its AdvancePracticeSearchActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Search By'. 
+The purpose of this input component may be 'searchBy'. What is the hint text of this input component?",Enter Practice Name,Enter Name or Number,0.5,0.4043537731417560,0.4043537731417560,0.22507385850726
+"Q: This is a healow app. On its AdvancePracticeSearchActivity page, it has an input component. The text on this component is 'Grace Chan'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Search By'. 
+The purpose of this input component may be 'searchBy'. What is the hint text of this input component?",Enter Practice Name,Enter Name or Number,0.5,0.4043537731417560,0.4043537731417560,0.22507385850726
+"Q: This is a healow app. On its InitialSetupWizard page, it has an input component. The text on this component is 'Grace Chan'. The purpose of this input component may be 'txtSearchByName'. What is the hint text of this input component?",Search by Provider Name or Practice Name/Code,Enter a name to search,0,0,0,0
+"Q: This is a healow app. On its InitialSetupWizard page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'txtUserName'. The hint text of this component is 'Username'. 
+The purpose of this input component may be 'txtPassword'. What is the hint text of this input component?",Password,Password,1.0,1.0,1.0,1.0
+"Q: This is a healow app. On its OaLocationSearchActivity page, it has an input component. The text on this component is '94101'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'btnSpeak'. 
+The purpose of this input component may be 'locationSearchBox'. What is the hint text of this input component?",Please enter City/State/Zip,Enter a location,0,0,0,0
+"Q: This is a healow app. On its InitialSetupWizard page, it has an input component. The text on this component is 'Grace Chan'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'txtSearchByLocation'. The text on this component is 'San Francisco, California'. The hint text of this component is 'Enter City/State/Zip'. 
+The purpose of this input component may be 'txtSearchByName'. What is the hint text of this input component?",Search by Provider Name or Practice Name/Code,Enter Name,0.841042499311949,0.841042499311949,0.841042499311949,1.82645184613642E-309
+"Q: This is a healow app. On its LinkPortalAccountActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'logIn'. The text on this component is 'LOGIN'. 
+The purpose of this input component may be 'practiceCode'. What is the hint text of this input component?",Enter Practice Code,Enter your practice code,0.4043537731417560,0.4043537731417560,0.4043537731417560,0.22507385850726
+"Q: This is a mn app. On its FavoriteSettingActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'btn search'. 
+The purpose of this input component may be 'search input'. What is the hint text of this input component?",Please enter the name of the artist.,Search this team,0,0,0,0
+"Q: This is a mn app. On its AuthActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input email'. The hint text of this component is 'ID (e-mail address)'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'btn signin'. The text on this component is 'Login'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'btn signin line'. The text on this component is 'Login with your LINE account.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'btn signup'. The text on this component is 'Membership Registration'. 
+There is a component on the same vertical line as this input component. The text on this component is 'Sign in with Google'. 
+The purpose of this input component may be 'input passwd'. What is the hint text of this input component?",Password,Password,1.0,0.841042499311949,0.841042499311949,0.841042499311949
+"Q: This is a mn app. On its CommentActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'btn submit'. 
+The purpose of this input component may be 'input comment'. What is the hint text of this input component?",Please enter a comment.,Enter comment,0.841042499311949,0.841042499311949,0.841042499311949,0.841042499311949
+"Q: This is a mercury app. On its LoginActivity page, it has an input component. The text on this component is 'appcrawler1@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'action mode bar stub'. 
+The purpose of this input component may be 'wl'. What is the hint text of this input component?",Enter phone number or email,Enter phone number or email,0.841042499311949,0.841042499311949,0.841042499311949,0.841042499311949
+"Q: This is a mercury app. On its LoginActivity page, it has an input component. The text on this component is 'appcrawler1@gmail.com'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'w '. The text on this component is 'appcrawler1@gmail.com'. The hint text of this component is 'Enter phone number or email'. 
+Thers is a component on the same horizontal line as this input component. 
+The purpose of this input component may be 'wl'. What is the hint text of this input component?",Enter phone number or email,Enter phone number or email,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a mercury app. On its LoginActivity page, it has an input component. The text on this component is 'appcrawler1@gmail.com'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'wl'. The text on this component is 'appcrawler1@gmail.com'. The hint text of this component is 'Enter phone number or email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'navigationBarBackground'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'statusBarBackground'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'wb'. The text on this component is 'Next'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+The purpose of this input component may be 'w '. What is the hint text of this input component?",Enter phone number or email,Enter phone number or email,1.0,1.0,1.0,1.0
+"Q: This is a mercury app. On its SignupActivity page, it has an input component. The text on this component is 'Laura Lee'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The text on this component is 'Username'. 
+Thers is a component on the same horizontal line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'a3v'. The text on this component is 'Crowd3116'. The hint text of this component is '6~16 characters'. 
+The purpose of this input component may be 'a3x'. What is the hint text of this input component?",Enter username,Username,0.92507385850726,0.72507385850726,0.72507385850726,0.72507385850726
+"Q: This is a mercury app. On its SignupActivity page, it has an input component. The text on this component is 'appcrawler1@gmail.com'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The text on this component is 'Email'. 
+Thers is a component on the same horizontal line as this input component. 
+The purpose of this input component may be 'a3s'. What is the hint text of this input component?",Enter your email,Email,0.92507385850726,0.72507385850726,0.72507385850726,0.72507385850726
+"Q: This is a mercury app. On its LoginActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'action mode bar stub'. 
+The purpose of this input component may be 'wl'. What is the hint text of this input component?",Enter phone number or email,Enter phone number or email,1.0,1.0,1.0,1..0
+"Q: This is a mercury app. On its LoginActivity page, it has an input component. The text on this component is 'appcrawler1@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'navigationBarBackground'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'statusBarBackground'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'wb'. The text on this component is 'Next'. 
+The purpose of this input component may be 'w '. What is the hint text of this input component?",Enter phone number or email,Email address,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a saucerecipes app. On its MainActivity page, it has an input component. The text on this component is 'pizza'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'logo'. The text on this component is 'Search for recipes'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'mic'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'material menu button'. 
+The purpose of this input component may be 'search'. What is the hint text of this input component?",Search for recipes,Search for recipes,1.0,1.0,1.0,0.22507385850726
+"Q: This is a polyvore app. On its PVCreateActivity page, it has an input component. The purpose of this input component may be 'auth input password'. What is the hint text of this input component?",Password,Password,1.0,0.518558927632837,0.518558927632837,0.22507385850726
+"Q: This is a polyvore app. On its PVCreateActivity page, it has an input component. The text on this component is 'appcrawler6@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'separator line'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'separator line'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'auth action btn'. The text on this component is 'Sign up'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'auth link'. The text on this component is 'Already have an account? Login '. 
+The purpose of this input component may be 'auth input field account'. What is the hint text of this input component?",Email,Email address,0.841042499311949,0.518558927632837,0.518558927632837,0.22507385850726
+"Q: This is a shopdisneyparks_goo app. On its HomeActivity page, it has an input component. The text on this component is 'Products You Might Enjoy, '. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'scan fragment'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'magic box blue bar'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'products not found msg'. The text on this component is 'No results found'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'product image header'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'filters availability container'. 
+The purpose of this input component may be 'header id'. What is the hint text of this input component?",Search Products,Search,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a shopdisneyparks_goo app. On its HomeActivity page, it has an input component. The text on this component is 'Arts & Collectibles , '. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'scan fragment'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'magic box blue bar'. 
+The purpose of this input component may be 'header id'. What is the hint text of this input component?",Search Products,Search,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a shopdisneyparks_goo app. On its HomeActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'scan fragment'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'magic box blue bar'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+The purpose of this input component may be 'header id'. What is the hint text of this input component?",Search Products,Search,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a shopdisneyparks_goo app. On its HomeActivity page, it has an input component. The text on this component is 'Characters, Disney Princesses, '. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'scan fragment'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'magic box blue bar'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'products not found msg'. The text on this component is 'No results found'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'filters availability container'. 
+The purpose of this input component may be 'header id'. What is the hint text of this input component?",Search Products,Search,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a shopdisneyparks_goo app. On its HomeActivity page, it has an input component. The text on this component is 'Products You Might Enjoy, Arts & Collectibles , '. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'scan fragment'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'magic box blue bar'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'products not found msg'. The text on this component is 'No results found'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'product image header'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'filters availability container'. 
+The purpose of this input component may be 'header id'. What is the hint text of this input component?",Search Products,Search,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a shopdisneyparks_goo app. On its HomeActivity page, it has an input component. The text on this component is 'Characters, Disney Princesses, Aurora, '. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'scan fragment'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'magic box blue bar'. 
+The purpose of this input component may be 'header id'. What is the hint text of this input component?",Search Products,Search,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a shopdisneyparks_goo app. On its HomeActivity page, it has an input component. The text on this component is 'Characters, '. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'scan fragment'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'magic box blue bar'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'featured category image'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'products not found msg'. The text on this component is 'No results found'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'filters availability container'. 
+The purpose of this input component may be 'header id'. What is the hint text of this input component?",Search Products,Search,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a shopdisneyparks_goo app. On its HomeActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'scan fragment'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'magic box blue bar'. 
+The purpose of this input component may be 'header id'. What is the hint text of this input component?",Search Products,Search,0.7879441171442,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a android app. On its SignupActivity page, it has an input component. The text on this component is 'appcrawler2@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Datos personales'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'et name'. The text on this component is 'Raphael Tan'. The hint text of this component is 'Nombre'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'et surname'. The hint text of this component is 'Primer apellido'. 
+There is a component on the same vertical line as this input component. The text on this component is 'Datos de la cuenta'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'bt signup'. The text on this component is 'Continuar'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'tv password security'. The text on this component is 'Seguridad: '. 
+The purpose of this input component may be 'et email'. What is the hint text of this input component?",Email,Email,1.0,0.4043537731417560,0.4043537731417560,0.4043537731417560
+"Q: This is a android app. On its SignupActivity page, it has an input component. The text on this component is 'appcrawler2@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Datos personales'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'et name'. The text on this component is 'RaphaelTan'. The hint text of this component is 'Nombre'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'et surname'. The hint text of this component is 'Primer apellido'. 
+There is a component on the same vertical line as this input component. The text on this component is 'Datos de la cuenta'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'bt signup'. The text on this component is 'Continuar'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'tv password security'. The text on this component is 'Seguridad: Alta'. 
+The purpose of this input component may be 'et email'. What is the hint text of this input component?",Email,Email,1.0,0.4043537731417560,0.4043537731417560,0.4043537731417560
+"Q: This is a katana app. On its FbMainTabActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'fb logo up button'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'primary action button'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'secondary action button'. 
+The purpose of this input component may be 'search edit text'. What is the hint text of this input component?",Search Marketplace,Search ,0.841042499311949,0.4043537731417560,0.4043537731417560,0.4043537731417560
+"Q: This is a katana app. On its FacebookLoginActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login username'. The text on this component is 'appcrawler2@gmail.com'. The hint text of this component is 'Email or Phone'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login login'. The text on this component is 'LOG IN'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login create account button'. The text on this component is 'Create New Facebook Account'. 
+The purpose of this input component may be 'login password'. What is the hint text of this input component?",Password,Password,1.0,0.45489799478447500,0.45489799478447500,0.4043537731417560
+"Q: This is a katana app. On its FacebookLoginActivity page, it has an input component. The text on this component is 'appcrawler2@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login login'. The text on this component is 'LOG IN'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login create account button'. The text on this component is 'Create New Facebook Account'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login password'. The hint text of this component is 'Password'. 
+The purpose of this input component may be 'login username'. What is the hint text of this input component?",Email or Phone,Email or Mobile Number,0.92507385850726,0.92507385850726,0.92507385850726,0.4043537731417560
+"Q: This is a katana app. On its FriendFinderHostingActivity page, it has an input component. The purpose of this input component may be 'friend finder search text'. What is the hint text of this input component?",Search for friends,Search for friends,1.0,1.0,1.0,1.0
+"Q: This is a im app. On its PrivatePhoneForwardNumActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'action mode bar stub'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'forward country country'. The text on this component is 'Select Country Code'. 
+The purpose of this input component may be 'forward country bind phone number'. What is the hint text of this input component?",Tap to enter your phone number,Enter your phone number,0.45489799478447500,0.45489799478447500,0.45489799478447500,0.45489799478447500
+"Q: This is a im app. On its PrivatePhoneForwardNumActivity page, it has an input component. The text on this component is '(415) 579-1638'. The purpose of this input component may be 'forward country bind phone number us'. What is the hint text of this input component?",Tap to enter your phone number,Enter your phone number,0.45489799478447500,0.45489799478447500,0.45489799478447500,0.45489799478447500
+"Q: This is a lolmessengerv2 app. On its LoginActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'edit ID'. The hint text of this component is 'Username'. 
+The purpose of this input component may be 'edit password'. What is the hint text of this input component?",Password,Password,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.edgeinsuranceeducation.com/?gclid=CO-dgaG169ECFRi4wAodbXICSg'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a tophatter app. On its OnboardingActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'btn apply'. The text on this component is 'Apply'. 
+The purpose of this input component may be 'promoCode'. What is the hint text of this input component?",Enter promo code,Enter code,0.841042499311949,0.841042499311949,0.518558927632837,0.518558927632837
+"Q: This is a passenger app. On its SimplifiedRegisterActivity page, it has an input component. The text on this component is 'appcrawler4@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'register name'. The hint text of this component is 'Name'. 
+The purpose of this input component may be 'register email'. What is the hint text of this input component?",Email address,Email,0.92507385850726,0.92507385850726,0.518558927632837,0.518558927632837
+"Q: This is a chiefs app. On its NotificationActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Select an issue type'. 
+There is a component on the same vertical line as this input component. The text on this component is 'Add comments'. 
+The purpose of this input component may be 'notification activity input comments'. What is the hint text of this input component?",Enter Comments,Enter a comment,0.841042499311949,0.841042499311949,0.518558927632837,0.518558927632837
+"Q: This is a fiid7001 app. On its LoginActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'Edt UserId'. The hint text of this component is 'User ID'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'Btn Login'. The text on this component is 'Log in'. 
+The purpose of this input component may be 'Edt Password'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.518558927632837,0.518558927632837
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.wcyb.com/sports'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a wcyb app. On its WarmWelcomeActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'top divider'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'mid divider'. 
+There is a component on the same vertical line as this input component. 
+The purpose of this input component may be 'search view'. What is the hint text of this input component?",Enter City or Zip Code,Enter City or Zip Code,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.wcyb.com/sports/local/short-track-us-nationals-coming-to-bms/409207546'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a one app. On its CarbonAuthenticatorActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Sign in with:'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'tvOr'. The text on this component is 'Or use your email:'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'bRegisterWithNpr'. The text on this component is 'Sign in'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'bSkipRegistration'. The text on this component is 'Skip for now'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'etPassword'. The hint text of this component is 'password'. 
+The purpose of this input component may be 'etEmail'. What is the hint text of this input component?",email address,email,0.841042499311949,0.841042499311949,0.518558927632837,0.518558927632837
+"Q: This is a one app. On its CarbonAuthenticatorActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The text on this component is 'Sign in with:'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'tvOr'. The text on this component is 'Or use your email:'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'bRegisterWithNpr'. The text on this component is 'Sign in'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'bSkipRegistration'. The text on this component is 'Skip for now'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'etEmail'. The hint text of this component is 'email address'. 
+The purpose of this input component may be 'etPassword'. What is the hint text of this input component?",password,password,1.0,1.0,0.3333333333333330,0.3333333333333330
+"Q: This is a android2 app. On its HostActivity page, it has an input component. The text on this component is 'nzsrhxcn0'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'btnSocialSettingsFBLogin'. The text on this component is 'Sign Up with Facebook'. 
+There is a component on the same vertical line as this input component. The text on this component is 'or'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'email'. The text on this component is 'appcrawler3@gmail.com'. The hint text of this component is 'Email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'birthdate'. The text on this component is '12/18/88'. The hint text of this component is 'Date of birth'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'joinAgreement'. The text on this component is 'By joining MapMyFitness you are agreeing to our
+Privacy Policy & Terms of Use'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'signup'. The text on this component is 'Sign Up'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'done'. The text on this component is 'Done'. 
+The purpose of this input component may be 'password'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.3333333333333330,0.3333333333333330
+"Q: This is a android2 app. On its HostActivity page, it has an input component. The text on this component is 'appcrawler3@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'btnSocialSettingsFBLogin'. The text on this component is 'Sign Up with Facebook'. 
+There is a component on the same vertical line as this input component. The text on this component is 'or'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'birthdate'. The text on this component is '12/18/88'. The hint text of this component is 'Date of birth'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password'. The text on this component is 'nzsrhxcn0'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'joinAgreement'. The text on this component is 'By joining MapMyFitness you are agreeing to our
+Privacy Policy & Terms of Use'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'signup'. The text on this component is 'Sign Up'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'done'. The text on this component is 'Done'. 
+The purpose of this input component may be 'email'. What is the hint text of this input component?",Email,Email,1.0,1.0,0.3333333333333330,0.3333333333333330
+"Q: This is a psimobile app. On its LoginActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'edt username'. The hint text of this component is 'Username'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'btn login'. The text on this component is 'Login'. 
+The purpose of this input component may be 'edt password'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.3333333333333330,0.3333333333333330
+"Q: This is a likes4likes app. On its DetailActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'imgv history'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'btn start'. The text on this component is 'Get Started'. 
+The purpose of this input component may be 'edt input'. What is the hint text of this input component?",Enter your username,Enter a username or email address,0.841042499311949,0.841042499311949,0.518558927632837,0.518558927632837
+"Q: This is a currentmobiletrackerlocation app. On its IndiaSelected page, it has an input component. The text on this component is '2674395082'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'contactpicker'. 
+The purpose of this input component may be 'editTxt'. What is the hint text of this input component?",Enter number,Number,0.92507385850726,0.92507385850726,0.518558927632837,0.518558927632837
+"Q: This is a sudyapp app. On its EditInfoPhotoActivity page, it has an input component. The text on this component is 'I'm interestin and fun. '. The purpose of this input component may be 'ac edit info photo description'. What is the hint text of this input component?","Introduce yourself, but don",Enter Description,0,0,0,0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://m.ticketmaster.com/ticket/forgotpassword.do'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'newtab'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'bookmarks'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a customerapp app. On its ActivityPickLocalityNew_ page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'ic searchicon'. The text on this component is '%'. 
+The purpose of this input component may be 'search edittext'. What is the hint text of this input component?",Enter a location,Enter a location,0.6666666666666670,0.6666666666666670,0.6666666666666670,0.3333333333333330
+"Q: This is a customerapp app. On its ActivityPickLocalityNew_ page, it has an input component. The text on this component is 'Mumbai, Maharashtra, India'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'ic searchicon'. The text on this component is '%'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'ic delete'. The text on this component is 'p'. 
+The purpose of this input component may be 'search edittext'. What is the hint text of this input component?",Enter a location,Enter a location,0.6666666666666670,0.6666666666666670,0.6666666666666670,0.3333333333333330
+"Q: This is a customerapp app. On its ActivityPickLocalityNew_ page, it has an input component. The text on this component is 'San Fransisco, Palolem, Canacona, Goa, India'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'ic searchicon'. The text on this component is '%'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'ic delete'. The text on this component is 'p'. 
+The purpose of this input component may be 'search edittext'. What is the hint text of this input component?",Enter a location,Enter a location,0.6666666666666670,0.6666666666666670,0.6666666666666670,0.3333333333333330
+"Q: This is a customerapp app. On its ActivityMerchantStoreSearch page, it has an input component. The text on this component is 'carrot'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'logo'. The text on this component is 'carrot'. 
+The purpose of this input component may be 'edit text search'. What is the hint text of this input component?",Search within Sabzi 2 Home - Neb Sarai,Search for products,0.06295853427918730,0.841042499311949,0.841042499311949,0.3333333333333330
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.mavenlink.com/?utm_source=google&utm_term=&utm_campaign=retargeting-us&utm_content=7-day---insights---text&utm_match=&utm_medium=cpc'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.fltplan.com/AwNewUser.exe?a=1'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.fltplan.com/login.htm'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a search app. On its RegisterPage page, it has an input component. The text on this component is 'Jon Brown'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'register submit'. The text on this component is 'Submit'. 
+The purpose of this input component may be 'register name'. What is the hint text of this input component?",Enter Your Name,Enter your name,0.3333333333333330,0.22507385850726,0.22507385850726,0.22507385850726
+"Q: This is a search app. On its RegisterPage page, it has an input component. The purpose of this input component may be 'register mobile'. What is the hint text of this input component?",Enter Your number,Enter mobile number,0.6666666666666670,0.22507385850726,0.22507385850726,0.22507385850726
+"Q: This is a search app. On its RegisterPage page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'register submit'. The text on this component is 'Submit'. 
+The purpose of this input component may be 'register name'. What is the hint text of this input component?",Enter Your Name,Enter your name,0.3333333333333330,0.3333333333333330,0.3333333333333330,0.3333333333333330
+"Q: This is a android app. On its SignUpActivity page, it has an input component. The text on this component is 'Crowd3116'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password info'. The text on this component is 'Password must be at least 6 characters'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button sign up submit'. The text on this component is 'Sign Up'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The text on this component is 'appcrawler6@gmail.com'. The hint text of this component is 'Email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The text on this component is '94101'. The hint text of this component is 'Zip Code'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'error field'. The text on this component is 'You must have a valid 5 digit U.S. zip code.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The text on this component is '1989'. The hint text of this component is 'Birth Year'. 
+The purpose of this input component may be 'input field'. What is the hint text of this input component?",Password,Enter Password,0.7879441171442,0.518558927632837,0.518558927632837,0.22507385850726
+"Q: This is a android app. On its SignUpActivity page, it has an input component. The text on this component is 'appcrawler6@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password info'. The text on this component is 'Password must be at least 6 characters'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button sign up submit'. The text on this component is 'Sign Up'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The text on this component is 'Crowd3116'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The text on this component is '94101'. The hint text of this component is 'Zip Code'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'error field'. The text on this component is 'You must have a valid 5 digit U.S. zip code.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The text on this component is '1989'. The hint text of this component is 'Birth Year'. 
+The purpose of this input component may be 'input field'. What is the hint text of this input component?",Email,Email Address,0.92507385850726,0.841042499311949,0.841042499311949,0.841042499311949
+"Q: This is a android app. On its SignUpActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password info'. The text on this component is 'Password must be at least 6 characters'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button sign up submit'. The text on this component is 'Sign Up'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The text on this component is 'appcrawler6@gmail.com'. The hint text of this component is 'Email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The hint text of this component is 'Zip Code'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The hint text of this component is 'Birth Year'. 
+The purpose of this input component may be 'input field'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.841042499311949,0.841042499311949
+"Q: This is a android app. On its SignUpActivity page, it has an input component. The text on this component is 'appcrawler6@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password info'. The text on this component is 'Password must be at least 6 characters'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button sign up submit'. The text on this component is 'Sign Up'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The hint text of this component is 'Zip Code'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'input field'. The hint text of this component is 'Birth Year'. 
+The purpose of this input component may be 'input field'. What is the hint text of this input component?",Email,Email Address,0.841042499311949,0.841042499311949,0.841042499311949,0.841042499311949
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://bgmonitor.uservoice.com/'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'newtab'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'bookmarks'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a buyer app. On its UserAccountActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'passwordShowImageView'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'userEmailTextView'. The hint text of this component is 'Email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'logInButton'. The text on this component is 'Log In'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'privacyTextView'. The text on this component is 'By logging in you agree that we may use the contact information you previously provided to contact you by email, telephone or postal mail in connection with our services, including for marketing purposes, in accordance with our Privacy Statement. You can change your communication preferences in your Profile.'. 
+The purpose of this input component may be 'userPasswordTextView'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.841042499311949,0.841042499311949
+"Q: This is a buyer app. On its UserAccountActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'logInButton'. The text on this component is 'Log In'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'privacyTextView'. The text on this component is 'By logging in you agree that we may use the contact information you previously provided to contact you by email, telephone or postal mail in connection with our services, including for marketing purposes, in accordance with our Privacy Statement. You can change your communication preferences in your Profile.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'userPasswordTextView'. The hint text of this component is 'Password'. 
+The purpose of this input component may be 'userEmailTextView'. What is the hint text of this input component?",Email,Email Address,0.5,0.518558927632837,0.518558927632837,0.22507385850726
+"Q: This is a buyer app. On its UserAccountActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'emailEditText'. The hint text of this component is 'Email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'phoneEditText'. The hint text of this component is 'Business Phone (optional)'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'createAccountButton'. The text on this component is 'Sign Up'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'termsOfUseAndPrivacyInfoTextView'. The text on this component is 'By clicking Sign Up you agree to Auction.com's Terms of Use and Privacy Statement.'. 
+The purpose of this input component may be 'passwordEditText'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.841042499311949,0.841042499311949
+"Q: This is a buyer app. On its UserAccountActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'passwordEditText'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'phoneEditText'. The hint text of this component is 'Business Phone (optional)'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'createAccountButton'. The text on this component is 'Sign Up'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'termsOfUseAndPrivacyInfoTextView'. The text on this component is 'By clicking Sign Up you agree to Auction.com's Terms of Use and Privacy Statement.'. 
+The purpose of this input component may be 'emailEditText'. What is the hint text of this input component?",Email,Email,1.0,1.0,0.841042499311949,0.841042499311949
+"Q: This is a spendingtracker app. On its CategoryPickerActivity page, it has an input component. The purpose of this input component may be 'abs  search src text'. What is the hint text of this input component?",Search or add a category,Enter a category,0.7870683678639,0.7870683678639,0.7870683678639,0.22507385850726
+"Q: This is a androidapp app. On its MainActivity page, it has an input component. The purpose of this input component may be 'search input'. What is the hint text of this input component?","Search title, actor or director",Search and Discover,0.71139039677531,0.7870683678639,0.7870683678639,0.22507385850726
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'm.top10bestdatingsites.com/5great?utm_source=google&kw=dating&c=140232928684&t=content&p=mobileapp%3A%3A2-american.chatmeetfriends&m=&adpos=none&dev=m&devmod=android%2Bgeneric&mobval=1&network=d&campaignid=328845307&adgroupid=42099781908&targetid=kwd-10909171&interest=&physical=9022185&feedid=&a=D007&ts=dispus&topic=&gclid=CN-DtaGeltICFQmqaQodKPsHNA'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a ad app. On its MainActivity page, it has an input component. The text on this component is '120'. The purpose of this input component may be 'weightEditText'. What is the hint text of this input component?",Enter in lb,Enter weight,0.3032653298563170,0.34957551530974,0.34957551530974,0.22507385850726
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'clipcliphair.com/home.php?gclid=CMvqhJ2OtdMCFd61wAod2SQJKw'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a Eng2TelDict app. On its Eng2TelDictActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'To Lose'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'Orthographical'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'To Wrangle'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'To Flatten'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'Polite'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'Enfeeblement'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'Adopt'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'Rhapsody'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'Magic realism'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'Girl'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'Wolfdog'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'text1'. The text on this component is 'Articular system'. 
+There is a component on the same vertical line as this input component. 
+There is a component on the same vertical line as this input component. 
+The purpose of this input component may be 'editText1'. What is the hint text of this input component?",Type here to search.,Search,0.3032653298563170,0.34957551530974,0.34957551530974,0.22507385850726
+"Q: This is a android app. On its SignUpActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'email'. The text on this component is 'appcrawler6@gmail.com'. The hint text of this component is 'Email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'full name'. The text on this component is 'App Crawler'. The hint text of this component is 'Full Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'birthday'. The hint text of this component is 'Birthday'. 
+The purpose of this input component may be 'password'. What is the hint text of this input component?",Password (min. 6 characters),Password,0.7870683678639,0.7870683678639,0.7870683678639,0.7870683678639
+"Q: This is a android app. On its SignUpActivity page, it has an input component. The text on this component is 'appcrawler6@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'full name'. The text on this component is 'App Crawler'. The hint text of this component is 'Full Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password'. The hint text of this component is 'Password (min. 6 characters)'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'birthday'. The hint text of this component is 'Birthday'. 
+The purpose of this input component may be 'email'. What is the hint text of this input component?",Email,Email,1.0,1.0,0.841042499311949,0.841042499311949
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.promotionsandsweeps.com/default.aspx?Flow=A8152254-23ED-8E07-6275-BA24A4108BD6892C355F&firstname=&lastname=&email=&address=&city=Urbana&state=IL&zippost=61801&gender=&phone=&dobday=&dobmonth=&dobyear=&affsecid=&EntranceVID=h4e%7Csmq28eGbKV180DHqeg2&subaff=Android-62d03789-d61e-43ea-a663-bc10349af5e6_200344_49425_iphone7&&reward=iphone7&o=207206'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.electronicproductzone.com/?Flow=6b51d955-0748-462e-9eb5-0ccdd7eceb37&isPrePop=true&reward=iphone7&o=207206&subaff1=Android-62d03789-d61e-43ea-a663-bc10349af5e6&subaff2=200344&subaff3=49425&subaff4=iphone7&DVID='. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a sundayticket app. On its AccountActivityPhones page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'email input'. The hint text of this component is 'Email or AT&T Access ID'. 
+The purpose of this input component may be 'password input'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.72507385850726,0.72507385850726
+"Q: This is a sundayticket app. On its AccountActivityPhones page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password input'. The hint text of this component is 'Password'. 
+The purpose of this input component may be 'email input'. What is the hint text of this input component?",Email or AT&T Access ID,Email,0.83156388887342,0.83156388887342,0.72507385850726,0.72507385850726
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.amazon.com/Garmin-ecoRoute-Vehicle-Diagnostics-Communicator/dp/B00313JWSO?referrer=com.garmin.android.apps.mech'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.ringo.co/terms.html'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a ringo app. On its SignupEnterPhoneActivity page, it has an input component. The text on this component is 'appcrawler6@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'next button'. The text on this component is 'Next'. 
+The purpose of this input component may be 'email'. What is the hint text of this input component?",Enter your email address,Enter your email address,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://tickets.hersheypa.com/WebStore/shop/ViewItems.aspx?CG=HPTKTS&C=HP&utm_source=Mobile%20App&utm_medium=Buy%20Mobile%20Tickets%20In%20Navigation&utm_campaign=Hersheypark%20Mobile%20App'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a android app. On its SingleActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'user login signup email info label'. The text on this component is 'Email Address'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'user login signup email'. The hint text of this component is 'Your Email Address'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'user login signup email error label'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'user login signup password info label'. The text on this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'user login signup password error label'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'social login option label'. The text on this component is 'or'. 
+The purpose of this input component may be 'user login signup password'. What is the hint text of this input component?",Your Password,Password,0.92507385850726,0.92507385850726,0.72507385850726,0.72507385850726
+"Q: This is a android app. On its SingleActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'user login signup email info label'. The text on this component is 'Email Address'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'user login signup email error label'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'user login signup password info label'. The text on this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'user login signup password'. The hint text of this component is 'Your Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'user login signup password error label'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'social login option label'. The text on this component is 'or'. 
+The purpose of this input component may be 'user login signup email'. What is the hint text of this input component?",Your Email Address,Email Address,0.92507385850726,0.92507385850726,0.72507385850726,0.72507385850726
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.insplisity.com/apps/privacypolicy/generalprivacypolicy.html'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'clear'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a vent app. On its ActSignIn page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'username'. The hint text of this component is 'Username'. 
+The purpose of this input component may be 'password'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.518558927632837,0.518558927632837
+"Q: This is a vent app. On its ActRegister page, it has an input component. The text on this component is 'appcrawler6@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'username'. The text on this component is 'Grace Chan'. The hint text of this component is 'Username'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password'. The text on this component is 'Crowd3116'. The hint text of this component is 'Password'. 
+The purpose of this input component may be 'email'. What is the hint text of this input component?",Email (not displayed publicly),Email,0.049787068367863900,0.518558927632837,0.518558927632837,0.518558927632837
+"Q: This is a vent app. On its ActRegister page, it has an input component. The text on this component is 'Crowd3116'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'username'. The text on this component is 'Grace Chan'. The hint text of this component is 'Username'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'email'. The text on this component is 'appcrawler6@gmail.com'. The hint text of this component is 'Email (not displayed publicly)'. 
+The purpose of this input component may be 'password'. What is the hint text of this input component?",Password,Password,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://docs.microsoft.com/en-us/intune-user-help/turn-off-microsoft-usage-data-collection-android'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a ghostery app. On its HistoryActivity page, it has an input component. The purpose of this input component may be 'historySearchBar'. What is the hint text of this input component?",Search history…,Search history…,1.0,1.0,1.0,1.0
+"Q: This is a ghostery app. On its BrowserActivity page, it has an input component. The text on this component is 'file:///android_asset/ghost_mode.html'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'reload button'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'find field'. The hint text of this component is 'Find in page…'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'find count'. 
+The purpose of this input component may be 'search field'. What is the hint text of this input component?",Search or enter address…,Search or enter address…,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'forums.freestufftimes.com/forums/hot-deals.6'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a apps app. On its LoginActivity page, it has an input component. The text on this component is 'ynaija'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login start now btn'. The text on this component is 'START NOW'. 
+The purpose of this input component may be 'login username edt'. What is the hint text of this input component?",Enter Instagram Username,Enter username,0.730326532985632,0.730326532985632,0.730326532985632,0.730326532985632
+"Q: This is a ffm2 app. On its ActivityLogin page, it has an input component. The text on this component is 'Crowd3116'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'editText1'. The text on this component is 'appcrawler6@gmail.com'. The hint text of this component is 'Email'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button1'. The text on this component is 'Login'. 
+The purpose of this input component may be 'editText2'. What is the hint text of this input component?",Password,Password,1.0,1.0,1.0,1.0
+"Q: This is a ffm2 app. On its ActivityLogin page, it has an input component. The text on this component is 'appcrawler6@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'editText2'. The text on this component is 'Crowd3116'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button1'. The text on this component is 'Login'. 
+The purpose of this input component may be 'editText1'. What is the hint text of this input component?",Email,Email,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'support.flipaclip.us'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a mobile app. On its tLoginActivityQuickBalance page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login head textfield email'. The text on this component is 'app'. The hint text of this component is 'Username'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'login head button login'. The text on this component is 'Log In'. 
+The purpose of this input component may be 'login head textfield password'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.730326532985632,0.518558927632837
+"Q: This is a android app. On its WelcomeActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button signin with facebook'. The text on this component is 'CONTINUE WITH FACEBOOK'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button signin with spotify'. The text on this component is 'CONTINUE WITH SPOTIFY'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'first name'. The hint text of this component is 'First name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'last name'. The hint text of this component is 'Last name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'email'. The hint text of this component is 'Email address'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'submit'. The text on this component is 'GET STARTED'. 
+The purpose of this input component may be 'password'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.730326532985632,0.518558927632837
+"Q: This is a android app. On its WelcomeActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button signin with facebook'. The text on this component is 'CONTINUE WITH FACEBOOK'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button signin with spotify'. The text on this component is 'CONTINUE WITH SPOTIFY'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'first name'. The hint text of this component is 'First name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'last name'. The hint text of this component is 'Last name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'submit'. The text on this component is 'GET STARTED'. 
+The purpose of this input component may be 'email'. What is the hint text of this input component?",Email address,Email,0.7879441171442,0.7879441171442,0.7879441171442,0.22507385850726
+"Q: This is a android app. On its WelcomeActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'button signin with spotify'. The text on this component is 'CONTINUE WITH SPOTIFY'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'email'. The hint text of this component is 'Email address'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'submit'. The text on this component is 'Log In'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button signin with facebook'. The text on this component is 'CONTINUE WITH FACEBOOK'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button signin with spotify'. The text on this component is 'CONTINUE WITH SPOTIFY'. 
+The purpose of this input component may be 'password'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.7879441171442,0.22507385850726
+"Q: This is a android app. On its WelcomeActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'button signin with facebook'. The text on this component is 'CONTINUE WITH FACEBOOK'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'submit'. The text on this component is 'Log In'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button signin with facebook'. The text on this component is 'CONTINUE WITH FACEBOOK'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'button signin with spotify'. The text on this component is 'CONTINUE WITH SPOTIFY'. 
+The purpose of this input component may be 'email'. What is the hint text of this input component?",Email address,Email,0.7879441171442,0.7879441171442,0.730326532985632,0.22507385850726
+"Q: This is a asvab app. On its UserAccountActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password'. The hint text of this component is 'Password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password again'. The hint text of this component is 'Confirm Password'. 
+The purpose of this input component may be 'email'. What is the hint text of this input component?",Email Address,Email,0.7879441171442,0.7879441171442,0.518558927632837,0.22507385850726
+"Q: This is a asvab app. On its UserAccountActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password'. The hint text of this component is 'Password'. 
+The purpose of this input component may be 'email'. What is the hint text of this input component?",Email Address,Email,0.7879441171442,0.7879441171442,0.518558927632837,0.518558927632837
+"Q: This is a wlky app. On its ClosingsActivity page, it has an input component. The purpose of this input component may be 'closings search'. What is the hint text of this input component?",Enter City,Enter city,1.0,1.0,1.0,1.0
+"Q: This is a mydol app. On its IdolSelectActivity3_ page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'action mode bar stub'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'view1'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'view2'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'view3'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'view4'. 
+The purpose of this input component may be 'registerNameEdit'. What is the hint text of this input component?",Please enter the name of your star.,Enter name of star,0.687865712705242,0.7879441171442,0.7879441171442,0.56523101198632
+"Q: This is a mydol app. On its IdolSelectActivity3_ page, it has an input component. The text on this component is 'Starstar'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'progress'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'emptyRetry'. The text on this component is 'Search again in the list'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'emptyRegister'. The text on this component is 'Self-registration of stars'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'emptyDes'. The text on this component is 'If you register stars by yourself, some functions may not be supported.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerTitle'. The text on this component is 'Laura Lee! Please select your favorite star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerDes'. The text on this component is 'If your favorite star is not on the list, Please touch here!'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'searchTitle'. The text on this component is 'Search star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerTitle'. The text on this component is 'Laura Lee! Please select your favorite star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerDes'. The text on this component is 'If your favorite star is not on the list, Please touch here!'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'searchTitle'. The text on this component is 'Search star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '#'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '100Percent'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '15&'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '24K'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2AM'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2NE1'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2PM'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '4minute'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '5 Seconds Of Summer'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '9MUSES'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is 'A'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is 'A.B.C-Z'. 
+The purpose of this input component may be 'searchEdit'. What is the hint text of this input component?",Please search your star,Please search your star,1.0,1.0,1.0,1.0
+"Q: This is a mydol app. On its IdolSelectActivity3_ page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'progress'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerTitle'. The text on this component is 'Laura Lee! Please select your favorite star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerDes'. The text on this component is 'If your favorite star is not on the list, Please touch here!'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'searchTitle'. The text on this component is 'Search star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerTitle'. The text on this component is 'Laura Lee! Please select your favorite star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerDes'. The text on this component is 'If your favorite star is not on the list, Please touch here!'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'searchTitle'. The text on this component is 'Search star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '#'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '100Percent'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '15&'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '24K'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2AM'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2NE1'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2PM'. 
+The purpose of this input component may be 'searchEdit'. What is the hint text of this input component?",Please search your star,Please search star,0.7165313105737890,0.7165313105737890,0.7165313105737890,0.59433508795969
+"Q: This is a mydol app. On its IdolSelectActivity3_ page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'progress'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'emptyRetry'. The text on this component is 'Search again in the list'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'emptyRegister'. The text on this component is 'Self-registration of stars'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'emptyDes'. The text on this component is 'If you register stars by yourself, some functions may not be supported.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'registerComplete'. The text on this component is 'Register my star'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerTitle'. The text on this component is 'Laura Lee! Please select your favorite star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerDes'. The text on this component is 'If your favorite star is not on the list, Please touch here!'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'searchTitle'. The text on this component is 'Search star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'searchEdit'. The text on this component is 'Starstar'. The hint text of this component is 'Please search your star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'registerTitle'. The text on this component is 'Laura Lee, please register 
+your favorite star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'registerDes'. The text on this component is 'Please enter your star's name and gender.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'registerNameTitle'. The text on this component is 'Enter star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerTitle'. The text on this component is 'Laura Lee! Please select your favorite star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerDes'. The text on this component is 'If your favorite star is not on the list, Please touch here!'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'searchTitle'. The text on this component is 'Search star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'searchEdit'. The hint text of this component is 'Please search your star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '#'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '100Percent'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '15&'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '24K'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2AM'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2NE1'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2PM'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '4minute'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '5 Seconds Of Summer'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '9MUSES'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is 'A'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is 'A.B.C-Z'. 
+The purpose of this input component may be 'registerNameEdit'. What is the hint text of this input component?",Please enter the name of your star.,Please enter your star,0.7165313105737890,0.7165313105737890,0.7165313105737890,0.7165313105737890
+"Q: This is a mydol app. On its IdolSelectActivity3_ page, it has an input component. The text on this component is 'Starstar'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'progress'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'emptyRetry'. The text on this component is 'Search again in the list'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'emptyRegister'. The text on this component is 'Self-registration of stars'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'emptyDes'. The text on this component is 'If you register stars by yourself, some functions may not be supported.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'registerComplete'. The text on this component is 'Register my star'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerTitle'. The text on this component is 'Laura Lee! Please select your favorite star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerDes'. The text on this component is 'If your favorite star is not on the list, Please touch here!'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'searchTitle'. The text on this component is 'Search star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'registerTitle'. The text on this component is 'Laura Lee, please register 
+your favorite star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'registerDes'. The text on this component is 'Please enter your star's name and gender.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'registerNameTitle'. The text on this component is 'Enter star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'registerNameEdit'. The hint text of this component is 'Please enter the name of your star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerTitle'. The text on this component is 'Laura Lee! Please select your favorite star.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'headerDes'. The text on this component is 'If your favorite star is not on the list, Please touch here!'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'searchTitle'. The text on this component is 'Search star's name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '#'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '100Percent'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '15&'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '24K'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2AM'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2NE1'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '2PM'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '4minute'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '5 Seconds Of Summer'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is '9MUSES'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is 'A'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'name'. The text on this component is 'A.B.C-Z'. 
+The purpose of this input component may be 'searchEdit'. What is the hint text of this input component?",Please search your star,Please enter the name of your star,0.42857142857142900,0.42857142857142900,0.42857142857142900,0.42857142857142900
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.northerncalifornia.buyatoyota.com/en/offers/?utm_source=FB&utm_medium=SOC&utm_content=BASKETBALLRAV4&utm_keyword=A25_54&utm_campaign=VIDENHANCE&tmsSiteAttribute=FB_SOC'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.northerncalifornia.buyatoyota.com/en/inventory/'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.mcsdga.net'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://accounts.google.com/ServiceLogin?service=googleplay&passive=0&authuser=0&continue=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.nbadigital.gametimelite%26rdid%3Dcom.nbadigital.gametimelite'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://play.google.com/store/apps/details?id=com.artelplus.howtodrawpro&referrer=utm_source%3Dcom.artelplus.howtodraw'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a client app. On its RealStatusConfirmActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'fb widget main textview'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'fb widget main textview'. The text on this component is '+1'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'phone field description'. The text on this component is 'If you made a mistake in the phone number, correct it and request a code again.'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'fb widget select line'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'fb widget hint textview'. The text on this component is '0/4'. 
+The purpose of this input component may be 'fb widget main textview'. What is the hint text of this input component?",Please enter the code.,Enter code,0.92507385850726,0.72507385850726,0.72507385850726,0.72507385850726
+"Q: This is a client app. On its RealStatusConfirmActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'phone field description'. The text on this component is 'An SMS containing a link to the app was sent to you. Follow the link or enter to this field the last 4 symbols from the link. +14152739840'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'fb widget select line'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'fb widget hint textview'. The text on this component is '0/4'. 
+The purpose of this input component may be 'fb widget main textview'. What is the hint text of this input component?",Please enter the code.,Enter code,0.92507385850726,0.72507385850726,0.72507385850726,0.72507385850726
+"Q: This is a client app. On its LoginActivity page, it has an input component. The text on this component is 'appcrawler3116'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'fb widget main textview'. The text on this component is 'appcrawler2@gmail.com'. The hint text of this component is 'E-mail address or username'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'fb widget select line'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'fb widget select line'. 
+The purpose of this input component may be 'fb widget main textview'. What is the hint text of this input component?",Password,Password,1.0,1.0,0.72507385850726,0.42857142857142900
+"Q: This is a client app. On its RealStatusConfirmActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'fb widget main textview'. The text on this component is '(415) 273-9840'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'fb widget main textview'. The text on this component is '+1'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'phone field description'. The text on this component is 'An SMS containing a link to the app was sent to you. Follow the link or enter to this field the last 4 symbols from the link. +14152739840'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'fb widget select line'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'fb widget hint textview'. The text on this component is '0/4'. 
+The purpose of this input component may be 'fb widget main textview'. What is the hint text of this input component?",Please enter the code.,Enter code,0.92507385850726,0.92507385850726,0.72507385850726,0.72507385850726
+"Q: This is a katvwx app. On its MasterActivity page, it has an input component. The purpose of this input component may be 'location nickname edit field'. What is the hint text of this input component?",Enter a nickname for this location,Enter a nickname for this location,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://m.facebook.com/VXiCorp'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'clear'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'http://rmc.bfmtv.com/evenement/vous-voulez-que-ca-bouge/?referer=app'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'newtab'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'bookmarks'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a b app. On its RegRegisterOrLoginActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'editName'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'editEmail'. The text on this component is 'appcrawler3@gmail.com'. The hint text of this component is 'Your email address'. 
+The purpose of this input component may be 'editPassword'. What is the hint text of this input component?",Choose a password,Enter Password,0.8507385850726,0.8507385850726,0.52507385850726,0.52507385850726
+"Q: This is a b app. On its RegRegisterOrLoginActivity page, it has an input component. The text on this component is 'appcrawler3@gmail.com'. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'editName'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'editPassword'. The hint text of this component is 'Choose a password'. 
+The purpose of this input component may be 'editEmail'. What is the hint text of this input component?",Your email address,Enter your email,0.92507385850726,0.92507385850726,0.72507385850726,0.72507385850726
+"Q: This is a mlbscores app. On its PlayersActivity page, it has an input component. The purpose of this input component may be 'search src text'. What is the hint text of this input component?",search by last name,Search last name,0.92507385850726,0.92507385850726,0.72507385850726,0.72507385850726
+"Q: This is a kctvdroid app. On its WarmWelcomeActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'top divider'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'mid divider'. 
+There is a component on the same vertical line as this input component. 
+The purpose of this input component may be 'search view'. What is the hint text of this input component?",Enter City or Zip Code,Enter City or Zip Code,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'www.nicebus.com/Mobile/Trip-Planner.aspx'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a browser app. On its BrowserActivity page, it has an input component. The text on this component is 'https://www.fema.gov/disaster-reporter-data'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'newtab'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'bookmarks'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'tab switcher'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'more'. 
+The purpose of this input component may be 'url'. What is the hint text of this input component?",Search or type URL,Search or type URL,1.0,1.0,1.0,1.0
+"Q: This is a android app. On its SignInActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'navigationBarBackground'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'statusBarBackground'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'colored triangles'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'email edittext'. The hint text of this component is 'email@example.com'. 
+The purpose of this input component may be 'password edittext'. What is the hint text of this input component?",password,Enter password,0.92507385850726,0.92507385850726,0.72507385850726,0.72507385850726
+"Q: This is a android app. On its SignInActivity page, it has an input component. Below is the relevant prompt information of the input component:
+There is a component on the same vertical line as this input component. The purpose of this component may be 'navigationBarBackground'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'statusBarBackground'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'colored triangles'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password edittext'. The hint text of this component is 'password'. 
+The purpose of this input component may be 'email edittext'. What is the hint text of this input component?",Email,Enter Email,0.92507385850726,0.92507385850726,0.72507385850726,0.72507385850726
+"Q: This is a android app. On its SignUpActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'password edittext'. The text on this component is 'Crowd3116'. The hint text of this component is 'password'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'password asterisk'. The text on this component is '*'. 
+The purpose of this input component may be 'password edittext spacing'. What is the hint text of this input component?",password,enter password,0.92507385850726,0.92507385850726,0.72507385850726,0.72507385850726
+"Q: This is a android app. On its SignUpActivity page, it has an input component. The text on this component is 'Crowd3116'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'password edittext spacing'. The hint text of this component is 'password'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'password asterisk'. The text on this component is '*'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'continue button'. The text on this component is 'Continue'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'email edittext'. The text on this component is 'appcrawler5@gmail.com'. The hint text of this component is 'email@example.com'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'first name edittext'. The text on this component is 'Sam'. The hint text of this component is 'First Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'last name edittext'. The text on this component is 'Brown'. The hint text of this component is 'Last Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'phone edittext'. The text on this component is '(415) 579-1543'. The hint text of this component is 'Phone'. 
+The purpose of this input component may be 'password edittext'. What is the hint text of this input component?",password,password,1.0,1.0,1.0,1.0
+"Q: This is a android app. On its SignUpActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'email edittext'. The text on this component is 'appcrawler5@gmail.com'. The hint text of this component is 'email@example.com'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'email asterisk'. The text on this component is '*'. 
+The purpose of this input component may be 'email editext spacing'. What is the hint text of this input component?",Email,Email,1.0,1.0,1.0,1.0
+"Q: This is a android app. On its SignUpActivity page, it has an input component. The text on this component is 'appcrawler5@gmail.com'. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'email editext spacing'. The hint text of this component is 'email@example.com'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'email asterisk'. The text on this component is '*'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'continue button'. The text on this component is 'Continue'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password edittext'. The text on this component is 'Crowd3116'. The hint text of this component is 'password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'first name edittext'. The text on this component is 'Sam'. The hint text of this component is 'First Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'last name edittext'. The text on this component is 'Brown'. The hint text of this component is 'Last Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'phone edittext'. The text on this component is '(415) 579-1543'. The hint text of this component is 'Phone'. 
+The purpose of this input component may be 'email edittext'. What is the hint text of this input component?",Email,Email,1.0,1.0,1.0,1.0
+"Q: This is a android app. On its SignUpActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'password edittext'. The hint text of this component is 'password'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'password asterisk'. The text on this component is '*'. 
+The purpose of this input component may be 'password edittext spacing'. What is the hint text of this input component?",password,enter password,0.72507385850726,0.72507385850726,0.72507385850726,0.72507385850726
+"Q: This is a android app. On its SignUpActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'password edittext spacing'. The hint text of this component is 'password'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'password asterisk'. The text on this component is '*'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'continue button'. The text on this component is 'Continue'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'email edittext'. The hint text of this component is 'email@example.com'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'first name edittext'. The hint text of this component is 'First Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'last name edittext'. The hint text of this component is 'Last Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'phone edittext'. The hint text of this component is 'Phone'. 
+The purpose of this input component may be 'password edittext'. What is the hint text of this input component?",password,Password,1.0,1.0,1.0,1.0
+"Q: This is a android app. On its SignUpActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'email edittext'. The hint text of this component is 'email@example.com'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'email asterisk'. The text on this component is '*'. 
+The purpose of this input component may be 'email editext spacing'. What is the hint text of this input component?",email,enter email,0.92507385850726,0.92507385850726,0.72507385850726,0.72507385850726
+"Q: This is a android app. On its SignUpActivity page, it has an input component. Below is the relevant prompt information of the input component:
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'email editext spacing'. The hint text of this component is 'email@example.com'. 
+Thers is a component on the same horizontal line as this input component. The purpose of this component may be 'email asterisk'. The text on this component is '*'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'continue button'. The text on this component is 'Continue'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'password edittext'. The hint text of this component is 'password'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'first name edittext'. The hint text of this component is 'First Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'last name edittext'. The hint text of this component is 'Last Name'. 
+There is a component on the same vertical line as this input component. The purpose of this component may be 'phone edittext'. The hint text of this component is 'Phone'. 
+The purpose of this input component may be 'email edittext'. What is the hint text of this input component?",email,enter email,0.92507385850726,0.92507385850726,0.72507385850726,0.72507385850726
