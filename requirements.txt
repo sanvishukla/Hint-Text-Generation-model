@@ -1,0 +1,6 @@
+uiautomator2
+transformers
+xmltodict
+torch
+scikit-learn
+nltk
