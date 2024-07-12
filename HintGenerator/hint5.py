@@ -1,4 +1,3 @@
-
 import uiautomator2 as u2
 import os
 import json
@@ -177,6 +176,9 @@ def getOutput(question: str, max_new_tokens: int = 50):
 
     return tokenizer.decode(generated_outputs[0], skip_special_tokens=True)
 
+import os
+import time
+
 def show_hint(bounds: list, hint_text: str):
     try:
         if len(bounds) >= 4:
@@ -186,19 +188,35 @@ def show_hint(bounds: list, hint_text: str):
             if h < 100:
                 y2 = y1 + 100
             
-            hint_text = hint_text.replace(' ', '-')
+            # Encode hint_text for shell command safety
+            hint_text_encoded = hint_text.replace('"', '\\"')  # Escape double quotes
             
-            cmd = f"adb shell am start-foreground-service -n dongzhong.testforfloatingwindow/.FloatingButtonService -e x1 {x1} -e y1 {y1} -e x2 {x2} -e y2 {y2} -e text {hint_text}"
-            print(f"Executing command: {cmd}")
+            # Construct the ADB shell input command to simulate tapping on the input area
+            cmd_tap = f"adb shell input tap {x1} {y1}"
+            os.system(cmd_tap)
             
-            os.system(cmd)
+            # Introduce a short delay (adjust as needed)
+            time.sleep(0.5)
             
-            print(f"Suggested hint for input component at bounds {bounds}: {hint_text}")
+            # Construct the ADB shell input command to simulate typing the hint_text
+            cmd_text = f"adb shell input text \"{hint_text_encoded}\""
+            os.system(cmd_text)
+            
+            print(f"Suggested hint '{hint_text}' displayed at bounds {bounds}")
         else:
             print(f"Bounds information not complete or invalid: {bounds}")
     except Exception as e:
         print(f"Error showing hint: {e}")
 
+def generate_and_show_hints(correct_hints):
+    try:
+        for index, (e_component, hint_text) in enumerate(correct_hints):
+            bounds = e_component['@bounds']
+            res = parse_bounds(bounds)
+            show_hint(res, hint_text)
+            print(f"Hint {index + 1} generated and displayed: '{hint_text}'")
+    except Exception as e:
+        print(f"Error generating or showing hints: {e}")
 def get_user_feedback(hint_index: int) -> bool:
     response = input(f"Was hint {hint_index} correct? (yes/no): ").strip().lower()
     return response == 'yes'
@@ -230,6 +248,47 @@ def apply_feedback(feedback_log):
     print(f"Total feedback: {total_feedback}, Positive: {positive_feedback}, Negative: {negative_feedback}, Reward: {reward}")
 
     return reward
+feedback_log = []
+def count_feedback_entries(filename='feedback_log.json'):
+    if os.path.exists(filename):
+        with open(filename, 'r') as f:
+            data = json.load(f)
+            return len(data)
+    else:
+        return 0
+
+# Example function to save feedback log to JSON file
+def save_feedback_log(feedback_log, filename='/Users/sanvishukla/Desktop/SRIP/HintDroid-main/HintDroid/feedback_log.json'):
+    # Create a list to store formatted feedback entries
+    formatted_feedback = []
+    
+    # Iterate through each entry in feedback_log
+    for entry in feedback_log:
+        # Extract components from entry
+        component = entry['component']
+        hint = entry['hint']
+        feedback = entry['feedback']
+        
+        # Construct a formatted feedback entry
+        formatted_entry = {
+            'prompt': entry.get('prompt', ''),  # Example: Add prompt if available
+            'hint': hint,
+            'feedback': feedback,
+            'reward': entry.get('reward', 0.0)  # Example: Add reward if available
+        }
+        
+        # Append formatted entry to formatted_feedback list
+        formatted_feedback.append(formatted_entry)
+    
+    # Save formatted_feedback to JSON file
+    with open(filename, 'w') as f:
+        json.dump(formatted_feedback, f, indent=4)
+
+# Function to trigger model fine-tuning
+def trigger_model_finetune():
+
+    os.system('python modeltrain2.py')
+
 while True:
     print('Connect to device...')
     d = u2.connect()
@@ -287,14 +346,12 @@ while True:
             print(f"Error generating or processing output: {e}")
     
     print("\nFinished generating hints.")
-    print("Now asking for feedback on generated hints.")
+    print("Now setting the hints as placeholders on the input fields and printing them.")
     
+    generate_and_show_hints(correct_hints)
+    
+    # Ask for feedback on generated hints
     for hint_index, (e_component, real_ans) in enumerate(correct_hints):
-        bounds = e_component['@bounds']
-        res = parse_bounds(bounds)
-        print(res)
-        show_hint(res, real_ans)
-        
         user_input = input(f"\nWas the hint ({real_ans}) correct for this EditText component? (yes/no): ").strip().lower()
         while user_input not in ['yes', 'no']:
             print("Invalid input. Please enter 'yes' or 'no'.")
@@ -317,16 +374,24 @@ while True:
                 pprint.pprint(error_message_component)
                 new_hint = error_message_component.get('@content-desc', 'No hint available')
                 print(f"New hint based on error message: {new_hint}")
+                bounds = e_component['@bounds']
+                res = parse_bounds(bounds)
                 show_hint(res, new_hint)
             else:
                 print("No error message component found below the EditText.")
     
+    # Apply feedback and update model
     reward = apply_feedback(feedback_log)
+    
+    # Clear feedback log for the next iteration
     feedback_log.clear()
-
-    if reward > reward_threshold:
-        print("Positive reward achieved, updating hint generation strategy.")
-        # Here you can add logic to fine-tune your model based on feedback.
-        # For example, using a custom training loop with the feedback data.
+    
+    # Save feedback log to JSON
+    save_feedback_log(feedback_log, 'feedback_log.json')
+    
+    # Check if feedback log reaches 100 entries to trigger model fine-tuning
+    if count_feedback_entries('feedback_log.json') >= 100:
+        print("Triggering model fine-tuning...")
+        trigger_model_finetune()
     
     time.sleep(15)
