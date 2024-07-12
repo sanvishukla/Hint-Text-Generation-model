@@ -23,5 +23,5 @@ You can access your IP Address by going to Settings> Additional Settings> Develo
 <br><br>
 **Run the Script:**
    ```bash
-python hint_droid.py
+python hint5.py
    ```
