@@ -1,0 +1,17 @@
+[[
+    {
+        "prompt": "Question: This is a app app. On its page, it has an input component. Below is the relevant prompt information of the input component:\nThere is a component on the same vertical line as this input component. The hint text of this component is 'Name'. \nWhat is the hint text of this input component?\n",
+        "new_hint": "Name",
+        "reward": 1
+    },
+    {
+        "prompt": "Question: This is a app app. On its page, it has an input component. Below is the relevant prompt information of the input component:\nThere is a component on the same vertical line as this input component. The hint text of this component is 'Email'. \nWhat is the hint text of this input component?\n",
+        "new_hint": "Email",
+        "reward": -1
+    },
+    {
+        "prompt": "Question: This is a app app. On its page, it has an input component. Below is the relevant prompt information of the input component:\nThere is a component on the same vertical line as this input component. The hint text of this component is 'Phone Number'. \nWhat is the hint text of this input component?\n",
+        "new_hint": "Phone Number",
+        "reward": -1
+    }
+]]
